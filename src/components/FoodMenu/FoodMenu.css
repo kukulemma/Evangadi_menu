@@ -1,0 +1,8 @@
+.foods-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  justify-items: center;
+  max-width: 1240px;
+  margin: 0 auto;
+}
